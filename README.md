@@ -1,7 +1,5 @@
 # Did GTR3 Release Today?
 
-![https://play.hotwheels.com/Static/images/car_loader_alpha-3.gif](https://play.hotwheels.com/Static/images/car_loader_alpha-3.gif)
-
 # No
 
 
