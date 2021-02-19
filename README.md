@@ -1,3 +1,20 @@
-## Has GTR3 Been released today?
+## Did GTR3 Release Today?
 
-No.
+*No*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check back tomorrow.
