@@ -25,6 +25,11 @@ body.grayscale {
     background: none;
 }
 
+.social-media {
+    position:relative;
+    top:-12px; /* <-- Play with this. */
+}
+
 h1, h2, p {
  color: white; 
   font-family: 'Archivo Black', sans-serif;
