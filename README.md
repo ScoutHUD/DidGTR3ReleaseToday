@@ -2,6 +2,7 @@
 
 # No
 
+  <iframe src="audio.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
 
 
 
@@ -18,5 +19,3 @@
 
 
 <sup>Check back tomorrow.<sup>
-
-https://raw.githubusercontent.com/ScoutHUD/DidGTR3ReleaseToday/main/audio.mp3
