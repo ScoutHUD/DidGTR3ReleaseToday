@@ -1,8 +1,6 @@
 <br />
 
-# Did GTR3 Release Today?
-
-## No
+# No
 
 
 
