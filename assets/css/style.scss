@@ -15,3 +15,12 @@ body {
  background-image: url("https://www.simbin.com/images/simbin/1_full.jpg?gtr3");
  background-color: #cccccc;
 }
+
+container {
+    min-height: 595px;
+    background: none;
+}
+
+h1, p, sup {
+ color: white; 
+}
