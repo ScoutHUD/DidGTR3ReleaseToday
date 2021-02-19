@@ -1,6 +1,6 @@
 # Did GTR3 Release Today?
 
-![https://www.racedepartment.com/attachments/simbin-teaser-jpg.263693/](https://www.racedepartment.com/attachments/simbin-teaser-jpg.263693/)
+![https://play.hotwheels.com/Static/images/car_loader_alpha-3.gif](https://play.hotwheels.com/Static/images/car_loader_alpha-3.gif)
 
 # No
 
