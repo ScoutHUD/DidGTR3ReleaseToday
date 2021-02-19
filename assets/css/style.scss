@@ -15,6 +15,8 @@ header {
 body {
  background-image: url("https://www.simbin.com/images/simbin/1_full.jpg?gtr3");
  background-color: #cccccc;
+    font-family: 'Archivo Black', sans-serif;
+
  -webkit-transition: all 3000ms;
 }
 
@@ -29,7 +31,7 @@ body.grayscale {
 
 h1, h2, p {
  color: white; 
-  font-family: sans-serif;
+  font-family: 'Archivo Black', sans-serif;
   animation: fadeIn ease 5s;
 -webkit-animation: fadeIn ease 5s;
 -moz-animation: fadeIn ease 5s;
