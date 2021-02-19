@@ -1,4 +1,4 @@
----
+<br />
 
 # Did GTR3 Release Today?
 
@@ -21,4 +21,3 @@
 
 Check back tomorrow.
 
----
